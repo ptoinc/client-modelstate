@@ -8,7 +8,7 @@ This component takes care of that currently missing piece.
 
 You can see more examples and learn about the motivation [here](http://www.toddlucas.net/2014/08/client-side-modelstate).
 
-This is a single class with an umber of static methods, written in TypeScript.
+This is a single class with a number of static methods, written in TypeScript.
 The project includes the transformed JavaScript, which you can use directly.
 To render errors on a POST failure, you can use jQuery's ajax statusCode setting for status code 400 (Bad Request).
 
